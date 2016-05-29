@@ -56,7 +56,3 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-# UE4 (https://answers.unrealengine.com/questions/16787/how-to-setup-git-for-an-ue4-project.html)
-Src\Intermediate
-Src\Saved
